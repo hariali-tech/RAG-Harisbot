@@ -1,0 +1,38 @@
+﻿Haris Ali
+Software Engineering Student  |  AI & ML Enthusiast
+Lahore, Pakistan   •   0311-2420526   •   s2023065049@umt.edu.pk   •   github.com/harisali-tech
+PROFILE
+
+Motivated 7th-semester Software Engineering student at UMT Lahore, passionate about Artificial Intelligence, Machine Learning, and full-stack development. Currently leading EvalIQ — an AI-powered automated subjective answer grading system — combining OCR, NLP, and LLM fine-tuning. Core strengths: team collaboration & leadership, technical documentation, research & rapid prototyping, and problem-solving.
+EDUCATION
+
+BS Software Engineering   University of Management and Technology (UMT), Lahore	2023 – Present  |  Semester 7 of 8
+▪	Core coursework: OOP, DSA, Databases, Python, Django, Machine Learning, Deep Learning, NLP
+▪	Software Re-Engineering, Software Requirement Specification (SRS), and Project Management studies
+▪	Active group-project contributor across all semesters
+FINAL YEAR PROJECT
+
+EvalIQ — AI-Powered Evaluation & Grading System
+2024 – Present
+▪	Built an AI grading pipeline using TrOCR for handwritten OCR, Sentence-BERT for semantic similarity, and FLAN-T5 with LoRA for personalised feedback generation
+▪	Developed a Django + React + PostgreSQL + Celery backend with a BERT-based Bloom’s Taxonomy classifier and planned GCP deployment
+▪	Delivered a 10-screen HTML UI prototype and full UMT-format documentation (Chapters 1–4)
+TECHNICAL SKILLS
+
+Languages	Python, Java, SQL, C++
+Frameworks	Django, React, PyTorch, TensorFlow, Hugging Face Transformers
+AI / ML	Machine Learning, Deep Learning, NLP, TrOCR, Sentence-BERT, FLAN-T5, LoRA, BERT
+Databases	PostgreSQL, MySQL, Firebase
+Tools	Git, Google Colab, PyCharm, Celery, GCP
+Other	REST APIs, OOP, Design Patterns, Agile, UML, Scrum
+SELECTED PROJECTS
+
+User Auth & Dashboard System   Django Project	2024
+▪	Built a complete login, signup, and password-reset flow using Django auth, with a responsive dashboard featuring profile management and role-based access control
+E-commerce Platform  Web engineering Course	2024
+▪	Built a frontend e-commerce website with service listings, login/signup, customer dashboard, and an admin panel
+NLP Sentiment Analysis — RNN/LSTM/GRU Variants   NLP Course	2024
+▪	Built six Jupyter notebooks (RNN, Bi-RNN, LSTM, Bi-LSTM, GRU, Bi-GRU) on a ChatGPT review dataset
+▪	Implemented preprocessing, visualisation, and comparative evaluation in Google Colab
+Project Management Dashboard Presentation   Project Management Course	2024
+▪	Produced a 9-slide deck with an interactive browser version covering EVM charts, risk matrices, and speaker notes

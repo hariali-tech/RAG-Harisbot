@@ -1,0 +1,115 @@
+﻿Semester Project: Natural Language Processing
+Topic: Retrieval-Augmented Generation (RAG) Chatbot
+Technologies: Python, LangChain, FAISS, Streamlit, OpenAI
+Hi, I'm Haris
+
+Software Engineering student at UMT Lahore — building AI systems, NLP pipelines, and full-stack applications. Currently leading EvalIQ, an AI-powered automated grading system as my Final Year Project.
+View Projects
+GitHub ↗
+SCROLL DOWN
+01 — About
+Who I Am
+
+I'm a 7th-semester BS Software Engineering student at the University of Management and Technology (UMT), Lahore, with a deep interest in Artificial Intelligence, Machine Learning, and modern full-stack development.
+
+My journey spans from low-level data structures all the way to fine-tuning large language models. I enjoy bridging the gap between research and real-world applications — from OCR pipelines to Django backends to React frontends.
+
+Outside academics, I actively collaborate on group projects, write technical documentation, and explore new tools in the AI/ML ecosystem.
+7th
+Semester at UMT
+4+
+Major Projects
+10+
+Technologies
+FYP
+AI Grading System
+02 — Projects
+What I've Built
+EvalIQ — AI-Powered Automated Grading System
+Final Year Project • UMT 2024–Present • Team: Junaid Iqbal, Husnain Shahbaz
+
+An end-to-end system for automated subjective answer grading. Uses TrOCR to extract handwritten student responses, Sentence-BERT for semantic similarity scoring, FLAN-T5 with LoRA for personalised feedback, and a BERT classifier for Bloom's Taxonomy categorisation. Built on a Django + React + PostgreSQL + Celery stack with planned GCP deployment.
+TrOCR Sentence-BERT FLAN-T5 + LoRA BERT Django React PostgreSQL Celery GCP
+
+Legacy Banking System Re-Engineering
+
+Refactored a legacy Python banking system through 7 progressive versions, eliminating code smells. Included 15-test pytest suite, PyQt5 desktop UI, and full UML documentation.
+PythonPyQt5pytestUML
+
+NLP Sentiment Analysis — RNN/LSTM/GRU
+
+Six Jupyter notebooks implementing Simple RNN, Bi-RNN, LSTM, Bi-LSTM, GRU, and Bi-GRU architectures on a ChatGPT user-review sentiment dataset with full preprocessing and evaluation.
+PythonPyTorchColabNLP
+
+Project Management Dashboard
+
+Interactive 9-slide presentation with a browser-based version covering EVM charts, risk matrices, and Earned Value analysis for a group project management scenario.
+HTMLCSSJSEVM
+
+Android Authentication Screens
+
+Designed XML layouts and Java Activity files for Register and Login screens with a red/gray colour scheme and Firebase-ready authentication hooks.
+JavaAndroidXMLFirebase
+03 — Skills
+Tech Stack
+Languages
+
+    Python
+    Java
+    JavaScript
+    SQL
+    C++
+
+AI / ML / NLP
+
+    PyTorch / TensorFlow
+    Hugging Face
+    Sentence-BERT
+    FLAN-T5 + LoRA
+    TrOCR / BERT
+
+Web & Backend
+
+    Django
+    React
+    REST APIs
+    Celery
+    PostgreSQL / MySQL
+
+Tools & Platforms
+
+    Git / GitHub
+    Google Colab
+    PyCharm
+    GCP
+    Android Studio
+
+Engineering
+
+    OOP & Design Patterns
+    DSA
+    Agile / Scrum
+    UML Diagrams
+    Technical Docs
+
+Mobile
+
+    Android (Java)
+    XML Layouts
+    Firebase Auth
+
+04 — Education
+My Journey
+2022 – PRESENT
+BS Software Engineering — University of Management and Technology (UMT), Lahore
+
+Semester 7 of 8. Core modules include OOP, DSA, Databases, Python, Django, Machine Learning, Deep Learning, NLP, Software Re-Engineering, Mobile App Development, and Project Management. Active group-project contributor throughout.
+2024 – PRESENT
+Final Year Project — EvalIQ
+
+
+I'm open to internships, collaborations, and interesting projects. Feel free to reach out through GitHub or LinkedIn.
+github.com/hariali-tech
+Email Me
+LinkedIn
+Built with love by Haris • UMT Lahore • 2025
