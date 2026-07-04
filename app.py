@@ -2,8 +2,8 @@ import streamlit as st
 from rag_chain import get_rag_chain
 from config import CHATBOT_NAME
 
-st.set_page_config(page_title=f"{CHATBOT_NAME} Chat", page_icon="🤖")
-st.title(f"🧠 {CHATBOT_NAME} – Your Personal RAG Assistant")
+st.set_page_config(page_title=f"{CHATBOT_NAME} Chat", page_icon="")
+st.title(f" {CHATBOT_NAME} – Your Personal RAG Assistant")
 
 # Initialize session state
 if "messages" not in st.session_state:
