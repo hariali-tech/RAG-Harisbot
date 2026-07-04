@@ -5,6 +5,32 @@ from config import CHATBOT_NAME
 st.set_page_config(page_title=f"{CHATBOT_NAME} Chat", page_icon="")
 st.title(f" {CHATBOT_NAME} – Your Personal RAG Assistant")
 
+# ================= Sidebar =================
+with st.sidebar:
+    st.title(" HarisBot")
+
+    st.markdown("###  About")
+    st.write(
+        "Ask questions about your uploaded PDF and TXT documents using AI."
+    )
+
+    st.markdown("###  Features")
+    st.write("- PDF Support")
+    st.write("- TXT Support")
+    st.write("- Semantic Search")
+    st.write("- FAISS Vector Database")
+    st.write("- Hugging Face LLM")
+    st.write("- LangChain RAG")
+
+    st.markdown("---")
+
+    if st.button("🗑️ Clear Chat"):
+        st.session_state.messages = []
+        st.rerun()
+
+    st.markdown("---")
+    st.caption("Built by Haris Ali")
+
 # Initialize session state
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -56,3 +82,6 @@ Current Question:
     st.session_state.messages.append(
         {"role": "assistant", "content": response}
     )
+
+st.markdown("---")
+st.caption("Built by Haris Ali | LangChain • FAISS • Hugging Face • Streamlit")
